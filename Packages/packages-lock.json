@@ -1,5 +1,14 @@
 {
   "dependencies": {
+    "com.aseward.game-jam-starter-kit": {
+      "version": "https://github.com/ajseward/GameJamStarterKit.git#upm",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.textmeshpro": "2.0.1"
+      },
+      "hash": "2b322bf8bf11e67b79432b24e0a9d39148f1bfcc"
+    },
     "com.unity.collab-proxy": {
       "version": "1.3.9",
       "depth": 0,
