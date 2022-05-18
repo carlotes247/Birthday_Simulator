@@ -2,3 +2,6 @@
 	path = Assets/iml-unity
 	url = https://github.com/Interactml/iml-unity.git
 	branch = VRInterface
+[submodule "Assets/iml-unity-telemetry"]
+	path = Assets/iml-unity-telemetry
+	url = https://github.com/carlotes247/InteractML_Telemetry.git
